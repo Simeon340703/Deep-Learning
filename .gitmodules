@@ -10,3 +10,6 @@
 [submodule "the-incredible-pytorch"]
 	path = the-incredible-pytorch
 	url = https://github.com/Simeon340703/the-incredible-pytorch
+[submodule "Machine-Learning-and-Computer-Vision-References"]
+	path = Machine-Learning-and-Computer-Vision-References
+	url = https://github.com/Simeon340703/Machine-Learning-and-Computer-Vision-References
