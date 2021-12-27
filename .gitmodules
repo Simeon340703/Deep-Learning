@@ -1,3 +1,6 @@
 [submodule "awesome-mlops"]
 	path = awesome-mlops
 	url = https://github.com/visenger/awesome-mlops
+[submodule "Deep-Learning-in-Production"]
+	path = Deep-Learning-in-Production
+	url = https://github.com/ahkarami/Deep-Learning-in-Production
