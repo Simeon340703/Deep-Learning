@@ -4,3 +4,6 @@
 [submodule "Deep-Learning-in-Production"]
 	path = Deep-Learning-in-Production
 	url = https://github.com/ahkarami/Deep-Learning-in-Production
+[submodule "t81_558_deep_learning"]
+	path = t81_558_deep_learning
+	url = https://github.com/Simeon340703/t81_558_deep_learning
