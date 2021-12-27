@@ -13,3 +13,6 @@
 [submodule "Machine-Learning-and-Computer-Vision-References"]
 	path = Machine-Learning-and-Computer-Vision-References
 	url = https://github.com/Simeon340703/Machine-Learning-and-Computer-Vision-References
+[submodule "Machine-Learning-Collection"]
+	path = Machine-Learning-Collection
+	url = https://github.com/aladdinpersson/Machine-Learning-Collection
