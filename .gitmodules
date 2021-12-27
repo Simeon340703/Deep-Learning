@@ -1,0 +1,3 @@
+[submodule "awesome-mlops"]
+	path = awesome-mlops
+	url = https://github.com/visenger/awesome-mlops
