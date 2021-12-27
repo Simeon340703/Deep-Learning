@@ -7,3 +7,6 @@
 [submodule "t81_558_deep_learning"]
 	path = t81_558_deep_learning
 	url = https://github.com/Simeon340703/t81_558_deep_learning
+[submodule "the-incredible-pytorch"]
+	path = the-incredible-pytorch
+	url = https://github.com/Simeon340703/the-incredible-pytorch
