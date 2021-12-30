@@ -19,3 +19,6 @@
 [submodule "pytorch-Deep-Learning"]
 	path = pytorch-Deep-Learning
 	url = https://github.com/Atcold/pytorch-Deep-Learning
+[submodule "Awesome-pytorch-list"]
+	path = Awesome-pytorch-list
+	url = https://github.com/bharathgs/Awesome-pytorch-list
